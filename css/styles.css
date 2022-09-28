@@ -114,7 +114,8 @@ body {
     margin-top: 30px;
     margin-left: 200px;
     color: rgb(239, 225, 209);
-    text-decoration: underline double rgb(229, 194, 106) 7%;
+    text-decoration: underline double;
+    text-decoration-color: rgb(229, 194, 106);
 }
 
 .center {
@@ -198,7 +199,8 @@ th {
 }
 
 .personal_reflection h2, .technical_aspects h2, .aesthetics h2, .accessibility_aspects h2{
-    text-decoration: underline double rgb(229, 194, 106) 7%;
+    text-decoration: underline double;
+    text-decoration-color: rgb(229, 194, 106);
 }
 
 .personal_reflection_p1{
